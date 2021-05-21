@@ -1,1 +1,1 @@
-# Automation-and-Robotics
+# Automation and Robotics group FAQ
